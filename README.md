@@ -2,7 +2,7 @@
 
 Here there's a little collection of HTB machines/challenges I solved. 
 
-As for HTB policy, I'm only uploading writeups for retired mahcines.
+As for HTB policy, I'm only uploading writeups for retired machines/challenges.
 
 You can contact me in case you're interested in one of the following writeups (give me proofs that you solved them :) )
 
