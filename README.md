@@ -15,6 +15,7 @@ You can contact me in case you're interested in one of the following writeups (g
 - Schooled
 - Love
 - Knife
+- Cap
 
 ## Solved active challenges
 
