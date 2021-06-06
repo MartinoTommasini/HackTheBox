@@ -1,4 +1,4 @@
-#Hack The Box
+# Hack The Box
 
 Here there's a little collection of HTB machines/challenges I solved. 
 
@@ -10,7 +10,6 @@ You can contact me in case you're interested in one of the following writeups (g
 ## Solved active machines
 
 - Armageddon 
-- ScriptKiddie
 - Spectra
 - TheNotebook
 - Schooled
