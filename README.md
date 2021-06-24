@@ -16,6 +16,7 @@ You can contact me in case you're interested in one of the following writeups (g
 - Love
 - Knife
 - Cap
+- dynstr
 
 ## Solved active challenges
 
