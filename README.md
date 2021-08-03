@@ -9,8 +9,6 @@ You can contact me in case you're interested in one of the following writeups (g
 
 ## Solved active machines
 
-- Armageddon 
-- TheNotebook
 - Schooled
 - Love
 - Knife
